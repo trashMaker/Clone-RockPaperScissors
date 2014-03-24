@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|D:\Programming\pg_c++\vs2013\Console\C++_Console_RockPaperScissors\ConsoleRockPaperScissors\|
