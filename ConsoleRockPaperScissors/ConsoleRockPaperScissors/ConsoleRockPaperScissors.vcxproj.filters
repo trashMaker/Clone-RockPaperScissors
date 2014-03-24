@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Common.h" />
+    <ClInclude Include="View.h" />
+    <ClInclude Include="Model.h" />
+    <ClInclude Include="ConsoleRockPaperScissors.h" />
+    <ClInclude Include="Control.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Npc.h" />
+    <ClInclude Include="Participant.h" />
+    <ClInclude Include="Random.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="View.cpp" />
+    <ClCompile Include="Model.cpp" />
+    <ClCompile Include="ConsoleRockPaperScissors.cpp" />
+    <ClCompile Include="Control.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Npc.cpp" />
+    <ClCompile Include="Participant.cpp" />
+    <ClCompile Include="Random.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="HISTORY.md" />
+    <None Include="README.md" />
+    <None Include="word.md" />
+    <None Include="GoodComment.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Summary_Reflection.txt" />
+  </ItemGroup>
+</Project>
